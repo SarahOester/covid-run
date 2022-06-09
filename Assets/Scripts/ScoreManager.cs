@@ -20,5 +20,4 @@ public class ScoreManager : MonoBehaviour
             Debug.Log(score);
         }  
     }
-
 }
